@@ -6,9 +6,8 @@ title: Makayla Murillo's CV
 Archaeologist B.A., SDSU Anthropology Graduate Student 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="mmurillo4410@sdsu.edu">isaac@applesdofall.org</a>
+
 
 
 ## Currently
