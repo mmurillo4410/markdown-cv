@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Makayla Murillo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Makayla Murillo 
+Archaeologist B.A., SDSU Anthropology Graduate Student 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,79 +13,63 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Archaeologist in Cultural Resource Management, Anthropology Graduate Program at San Diego State University, UCSD CalNAGPRA/NAGPRA Campus Committee, SLR CalNAGPRA/NAGPRA Specialist
 
-### Specialized in
+### Specialty
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Archaeologist with 8 years' experience as an archaeological field technician, laboratory technician, and Tribal represenative. Extensive experience with conducting muerous surveys, excavation, data and recovery in primarily Southern California including San Diego County, and additional experience in Riverside County, Orange County, Kern County, San Bernardino County, and Santa Barabra County. 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Research interest include role of experimentation in archaeology, protection and preservation of Native American sites, the Mission Period, and shell bead production. 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015`
+__MiraCosta College, AA, Anthropology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017`
+__California State University San Marcos, BA, Anthropology__
 
-- Sizar
+`2018`
+__University of California, Davis, Field School__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`Present`
+__San Diego State University, MA, Anthropology__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2017`
+Lilian Sherman Scholarship
 
-Associate, *French Academy of Science*, Paris, France
+`2021`
+Society of American Archaeology, National Science Foudnation Scholarship
 
+`2021`
+Norton and Ethel Allen Memorial Endowed Scholarship for Anthropology 
 
+`2022`
+Philanthropic Educational Organization, Program for Continuing Education 
 
-## Publications
+### Previous Experience 
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2014` 
+Present Archaeologist, Dudek, Encirnitas, California 
 
-### Journals
+`2017-2018`
+Tribal Represenative, Saving Sacred Sites, Vista, California 
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Personal Affiliations 
 
-`1669`
-Lectiones opticæ.
+`2015`
+California American Indian Cultural Sovereignty Center 
 
-etc. etc. etc.
+`2022- Present`
+University of California San Diego, Native American Graves Protection and Repatriation Act, Campus Committee
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+`2022-Present`
+San Luis Rey Band of Mission Indians, Native American Graves Protection and Repatriation Act, Specialist
 
