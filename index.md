@@ -6,7 +6,7 @@ title: Makayla Murillo's CV
 Archaeologist B.A., SDSU Anthropology Graduate Student 
 
 <div id="webaddress">
-<a href="mmurillo4410@sdsu.edu">isaac@applesdofall.org</a>
+<a href="mmurillo4410@sdsu.edu">mmurillo4410@sdsu.edu</a>
 
 
 
