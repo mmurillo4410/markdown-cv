@@ -3,7 +3,7 @@ layout: cv
 title: Makayla Murillo's CV
 ---
 # Makayla Murillo 
-Archaeologist B.A., SDSU Anthropology Graduate Student 
+Archaeologist B.A, Graduate Student 
 
 <div id="webaddress">
 <a href="mmurillo4410@sdsu.edu">mmurillo4410@sdsu.edu</a>
@@ -12,7 +12,10 @@ Archaeologist B.A., SDSU Anthropology Graduate Student
 
 ## Currently
 
-Archaeologist in Cultural Resource Management, Anthropology Graduate Program at San Diego State University, UCSD CalNAGPRA/NAGPRA Campus Committee, SLR CalNAGPRA/NAGPRA Specialist
+Archaeologist in Cultural Resource Management
+Anthropology Graduate Program at San Diego State University
+UCSD CalNAGPRA/NAGPRA Campus Committee
+San Luis Rrey Band of Mission Indians CalNAGPRA/NAGPRA Specialist
 
 ### Specialty
 
