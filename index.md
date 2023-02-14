@@ -16,7 +16,7 @@ Archaeologist in Cultural Resource Management, Anthropology Graduate Program at 
 
 ### Specialty
 
-Archaeologist with 8 years' experience as an archaeological field technician, laboratory technician, and Tribal represenative. Extensive experience with conducting muerous surveys, excavation, data and recovery in primarily Southern California including San Diego County, and additional experience in Riverside County, Orange County, Kern County, San Bernardino County, and Santa Barabra County. 
+Archaeologist with 8 years' experience as an archaeological field technician, laboratory technician, and Tribal represenative. Extensive experience with conducting numerous surveys, excavations, and data and recovery, primarily in Southern California including San Diego County, Riverside County, Orange County, Kern County, San Bernardino County, Santa Barabra County, and additional experience in Arizona. 
 
 
 ### Research interests
